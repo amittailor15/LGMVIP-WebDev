@@ -22,11 +22,11 @@ The system is intended for both the student and he teacher/academic section. The
 - Server:
    XAMPP Server- a software stack for the Microsoft Windows OS,              consisting of the Apache web server, OpenSSL for SSL support, MySQL          database and PHP programming language.
    
-# Website is hosted : http://localhost/student-result-management-master/
+# Website is hosted here : http://localhost/student-result-management-master/
 
-Student Login = Id:10861 | Fourth(C)
+Student Login = Id : 10861 | Fourth(C)
 
-Admin Login = Email:admin | Password:admin
+Admin Login = Email : admin | Password : admin
 
 How to run ?
 -> Install XAMPP
