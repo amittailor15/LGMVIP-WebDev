@@ -1,4 +1,4 @@
-# School result management system
+# Student Result Management System
 
 The main objective of Student Result Management System is to provide the examination results to the students and institutions in a simple manner. By a result analyzer with subject status and marks is an application tool for displaying the results in secure way.
 
@@ -12,8 +12,6 @@ The system is intended for both the student and he teacher/academic section. The
   1. HTML- standard markup language for creating Web pages.
   2. CSS- a language that describes the style of an HTML document.
   3. JavaScript- programming language of HTML and the Web.
-  4. AJAX- Asynchronous JavaScript and XML, a technique for creating better,      faster, and more interactive web applications with the help of XML,          HTML,CSS, and Java Script
-  5. jQuery- a JavaScript Library which simplifies JavaScript programming.
 
 - Back-end:
    PHP- a server scripting language, and a powerful tool for making dynamic      and interactive web pages.
@@ -22,7 +20,17 @@ The system is intended for both the student and he teacher/academic section. The
    My SQL- an open-source relational database management system.
 
 - Server:
-   WAMP/XAMP Server- a software stack for the Microsoft Windows OS,              consisting of the Apache web server, OpenSSL for SSL support, MySQL          database and PHP programming language.
+   XAMPP Server- a software stack for the Microsoft Windows OS,              consisting of the Apache web server, OpenSSL for SSL support, MySQL          database and PHP programming language.
+   
+# Website is hosted :
+
+Student Login = Id:10861 | Fourth(C)
+Admin Login = Email:admin | Password:admin
+How to run ?
+-> Install XAMPP
+Go to http://localhost/phpmyadmin in browser
+Create Database srms
+Import database srms.sql
          
          
 
